@@ -34,7 +34,7 @@
     <npn.version>8.1.2.v20120308</npn.version>
     <bouncycastle.version>1.48</bouncycastle.version>
     <gson.version>2.2.3</gson.version>
-    <apache.http.version>4.2.2</apache.http.version>
+    <apache.http.version>4.3.6</apache.http.version>
 
     <!-- Test Dependencies -->
     <junit.version>4.10</junit.version>
