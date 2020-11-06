@@ -37,7 +37,7 @@
     <apache.http.version>4.2.2</apache.http.version>
 
     <!-- Test Dependencies -->
-    <junit.version>4.10</junit.version>
+    <junit.version>4.13.1</junit.version>
   </properties>
 
   <scm>
